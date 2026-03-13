@@ -41,4 +41,4 @@ jobs:
               uses: docker/build-push-action@v6
               with:
                 push: true
-                tags: ghcr.io/ipio04/Practica-10-docker:latest
+                tags: ghcr.io/ipio04/practica-10-docker:latest
